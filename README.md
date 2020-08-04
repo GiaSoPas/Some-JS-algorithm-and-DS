@@ -3,7 +3,9 @@ ____
 
 ## Searches
 * [Binary Search](https://github.com/GiaSoPas/Some-JS-algorithm-and-DS/tree/master/searching/BinarySearch)
+
 * [Linear Search](https://github.com/GiaSoPas/Some-JS-algorithm-and-DS/tree/master/searching/LinearSearch)
+
 * [Recursive Binary Search](https://github.com/GiaSoPas/Some-JS-algorithm-and-DS/tree/master/RecursiveBinarySearch)
 
 ## Sorting 
