@@ -1,6 +1,6 @@
 # JS_algorithms-and-data-structures
 ____
-
+Test
 ## Searches
 * [Binary Search](https://github.com/GiaSoPas/Some-JS-algorithm-and-DS/tree/master/searching/BinarySearch)
 * [Linear Search](https://github.com/GiaSoPas/Some-JS-algorithm-and-DS/tree/master/searching/LinearSearch)
